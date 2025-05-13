@@ -1,2 +1,4 @@
 # Mtcars-Flask-Api
-STAT 418 HW 3 - Timothy Tu
+STATS 418 HW 3 - Timothy Tu
+
+This is The Mtcars Flask Api standalone github repo for STATS 418 HW 3 (Timothy Tu).
